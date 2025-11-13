@@ -29,10 +29,17 @@ The dataset contains both **phishing and legitimate URLs**, collected from:
 - Kaggle  
 - UCI Machine Learning Repository  
 
-*(Dataset is not uploaded here due to size limits. You can download it from the link below.)*
-
-📎 [Download Dataset (Google Drive)](https://drive.google.com/)
-
 ---
 
 ## ⚙️ Project Structure
+PhishGuard-A-URL-Based-Machine-Learning-Approach-for-Phishing-Detection/
+│
+├── app.py # Flask web app for prediction
+├── main.py # Main ML training and evaluation script
+├── phishing-detection.ipynb # Jupyter notebook with feature extraction & modeling
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+├── .gitignore # Files/folders ignored by Git
+└── LICENSE # Project license
+
+
