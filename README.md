@@ -44,39 +44,39 @@ PhishGuard-A-URL-Based-Machine-Learning-Approach-for-Phishing-Detection/
 
 ## 🧩 How to Run Locally
 
-### Step 1: Clone the Repository
-git clone "(https://github.com/ShiraniAgarwal/PhishGuard-A-URL-Based-Machine-Learning-Approach-for-Phishing-Detection/)" 
-Step 2: Navigate to the Project Folder
-bash
-  cd PhishGuard-A-URL-Based-Phishing-Detection
-Step 3: Install Dependencies
-bash
-  pip install -r requirements.txt
-Step 4: Run the Flask App
-bash
-  python app.py
+### Step 1: Clone the Repository <br>
+git clone "(https://github.com/ShiraniAgarwal/PhishGuard-A-URL-Based-Machine-Learning-Approach-for-Phishing-Detection/)"  <br>
+Step 2: Navigate to the Project Folder<br>
+bash   <br>
+  cd PhishGuard-A-URL-Based-Phishing-Detection    <br>
+Step 3: Install Dependencies    <br>
+bash        <br>
+  pip install -r requirements.txt      <br>
+Step 4: Run the Flask App      <br>
+bash      <br>
+  python app.py    <br>
 
-🧪 Evaluation Metrics:
-    Accuracy
-    Precision
-    Recall
-    F1-Score
-    Confusion Matrix
+🧪 Evaluation Metrics:<br>
+    Accuracy<br>
+    Precision<br>
+    Recall<br>
+    F1-Score<br>
+    Confusion Matrix<br>
 
 
-🖥️ Technologies Used
-    Languages: Python
-    Libraries: NumPy, Pandas, Scikit-learn, CatBoost, Flask
-    Tools: Jupyter Notebook, VS Code, GitHub
+🖥️ Technologies Used<br>
+    Languages: Python<br>
+    Libraries: NumPy, Pandas, Scikit-learn, CatBoost, Flask<br>
+    Tools: Jupyter Notebook, VS Code, GitHub<br>
 
 
 👩‍💻 Author
    Shirani Agarwal
 
 🌐 GitHub: (https://github.com/ShiraniAgarwal)
-
+<br>
 
 🪪 License
 
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the MIT License.
 
