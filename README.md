@@ -42,4 +42,43 @@ PhishGuard-A-URL-Based-Machine-Learning-Approach-for-Phishing-Detection/
 ├── .gitignore # Files/folders ignored by Git
 └── LICENSE # Project license
 
+## 🧩 How to Run Locally
+
+### Step 1: Clone the Repository
+git clone "https://github.com/your-username/PhishGuard-A-URL-Based-Phishing-Detection.git" 
+Step 2: Navigate to the Project Folder
+bash
+  cd PhishGuard-A-URL-Based-Phishing-Detection
+Step 3: Install Dependencies
+bash
+  pip install -r requirements.txt
+Step 4: Run the Flask App
+bash
+  python app.py
+Open your browser and go to http://127.0.0.1:5000/ to use the phishing detector.
+
+🧪 Evaluation Metrics
+Accuracy
+
+Precision
+
+Recall
+
+F1-Score
+
+Confusion Matrix
+
+
+🖥️ Technologies Used
+Languages: Python
+
+Libraries: NumPy, Pandas, Scikit-learn, CatBoost, Flask
+
+Tools: Jupyter Notebook, VS Code, GitHub
+
+
+👩‍💻 Author
+Shirani Agarwal
+
+🌐 GitHub: (https://github.com/ShiraniAgarwal)
 
