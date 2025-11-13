@@ -56,7 +56,7 @@ Step 4: Run the Flask App      <br>
 bash      <br>
   python app.py    <br>
 
-##🧪 Evaluation Metrics:<br>
+## 🧪 Evaluation Metrics:<br>
     Accuracy<br>
     Precision<br>
     Recall<br>
@@ -64,20 +64,20 @@ bash      <br>
     Confusion Matrix<br>
 
 
-##🖥️ Technologies Used<br>
+## 🖥️ Technologies Used <br>
     Languages: Python<br>
     Libraries: NumPy, Pandas, Scikit-learn, CatBoost, Flask<br>
     Tools: Jupyter Notebook, VS Code, GitHub<br>
 
 
-##👩‍💻 Author <br>
+## 👩‍💻 Author <br>
    Shirani Agarwal
 
-##🌐 GitHub: <br>
+## 🌐 GitHub: <br>
 (https://github.com/ShiraniAgarwal)
 <br>
 
-##🪪 License <br>
+## 🪪 License <br>
 
 This project is licensed under the MIT License.
 
