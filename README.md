@@ -45,7 +45,7 @@ PhishGuard-A-URL-Based-Machine-Learning-Approach-for-Phishing-Detection/
 ## 🧩 How to Run Locally
 
 ### Step 1: Clone the Repository
-git clone "https://github.com/your-username/PhishGuard-A-URL-Based-Phishing-Detection.git" 
+git clone "(https://github.com/ShiraniAgarwal/PhishGuard-A-URL-Based-Machine-Learning-Approach-for-Phishing-Detection/)" 
 Step 2: Navigate to the Project Folder
 bash
   cd PhishGuard-A-URL-Based-Phishing-Detection
