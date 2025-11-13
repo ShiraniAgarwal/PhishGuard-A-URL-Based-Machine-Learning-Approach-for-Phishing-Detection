@@ -33,14 +33,14 @@ The dataset contains both **phishing and legitimate URLs**, collected from:
 
 ## ⚙️ Project Structure
 PhishGuard-A-URL-Based-Machine-Learning-Approach-for-Phishing-Detection/
-│
-├── app.py # Flask web app for prediction
-├── main.py # Main ML training and evaluation script
-├── phishing-detection.ipynb # Jupyter notebook with feature extraction & modeling
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-├── .gitignore # Files/folders ignored by Git
-└── LICENSE # Project license
+│<br>
+├── app.py # Flask web app for prediction      <br>
+├── main.py # Main ML training and evaluation script      <br>
+├── phishing-detection.ipynb # Jupyter notebook with feature extraction & modeling     <br>
+├── requirements.txt # Python dependencies     <br>
+├── README.md # Project documentation        <br>
+├── .gitignore # Files/folders ignored by Git    <br>
+└── LICENSE # Project license         <br>
 
 ## 🧩 How to Run Locally
 
@@ -55,30 +55,28 @@ bash
 Step 4: Run the Flask App
 bash
   python app.py
-Open your browser and go to http://127.0.0.1:5000/ to use the phishing detector.
 
-🧪 Evaluation Metrics
-Accuracy
-
-Precision
-
-Recall
-
-F1-Score
-
-Confusion Matrix
+🧪 Evaluation Metrics:
+    Accuracy
+    Precision
+    Recall
+    F1-Score
+    Confusion Matrix
 
 
 🖥️ Technologies Used
-Languages: Python
-
-Libraries: NumPy, Pandas, Scikit-learn, CatBoost, Flask
-
-Tools: Jupyter Notebook, VS Code, GitHub
+    Languages: Python
+    Libraries: NumPy, Pandas, Scikit-learn, CatBoost, Flask
+    Tools: Jupyter Notebook, VS Code, GitHub
 
 
 👩‍💻 Author
-Shirani Agarwal
+   Shirani Agarwal
 
 🌐 GitHub: (https://github.com/ShiraniAgarwal)
+
+
+🪪 License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
 
