@@ -57,11 +57,11 @@ bash      <br>
   python app.py    <br>
 
 ## 🧪 Evaluation Metrics:<br>
-    Accuracy<br>
-    Precision<br>
-    Recall<br>
-    F1-Score<br>
-    Confusion Matrix<br>
+    Accuracy
+    Precision
+    Recall
+    F1-Score
+    Confusion Matrix
 
 
 ## 🖥️ Technologies Used <br>
