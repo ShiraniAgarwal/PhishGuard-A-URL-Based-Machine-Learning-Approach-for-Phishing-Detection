@@ -65,9 +65,9 @@ bash      <br>
 
 
 ## 🖥️ Technologies Used <br>
-    Languages: Python<br>
-    Libraries: NumPy, Pandas, Scikit-learn, CatBoost, Flask<br>
-    Tools: Jupyter Notebook, VS Code, GitHub<br>
+    Languages: Python
+    Libraries: NumPy, Pandas, Scikit-learn, CatBoost, Flask
+    Tools: Jupyter Notebook, VS Code, GitHub
 
 
 ## 👩‍💻 Author <br>
